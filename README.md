@@ -194,15 +194,15 @@ Edit the prompt in the [request script](scripts/minimax_h3/server/post_t2av.py) 
 LightX2V supports image, video, and world models and provides quantized weights, distilled models, and lightweight autoencoders.
 
 <details>
-<summary><strong>🎬 Video &amp; Audio-Video Generation</strong><br>
-<a href="https://huggingface.co/Wan-AI/"><img src="https://img.shields.io/badge/Wan-eaf2ff?style=flat" alt="Wan" height="22"></a>
-<a href="scripts/ltx2/README.md"><img src="https://img.shields.io/badge/LTX-eaf2ff?style=flat" alt="LTX" height="22"></a>
-<a href="scripts/minimax_h3/README.md"><img src="https://img.shields.io/badge/MiniMax--H3-eaf2ff?style=flat" alt="MiniMax-H3" height="22"></a>
-<a href="scripts/hunyuan_video_15/README.md"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" height="22"></a>
-<a href="scripts/lingbot_video"><img src="https://img.shields.io/badge/LingBot--Video-eaf2ff?style=flat" alt="LingBot-Video" height="22"></a>
-<a href="scripts/seko_talk"><img src="https://img.shields.io/badge/SekoTalk-eaf2ff?style=flat" alt="SekoTalk" height="22"></a>
-<a href="scripts/infinitetalk"><img src="https://img.shields.io/badge/InfiniteTalk-eaf2ff?style=flat" alt="InfiniteTalk" height="22"></a>
-<a href="scripts/self_forcing/README.md"><img src="https://img.shields.io/badge/Self--Forcing-eaf2ff?style=flat" alt="Self-Forcing" height="22"></a>
+<summary><strong>🎬 Video &amp; Audio-Video Generation</strong><br><br>
+<a href="https://huggingface.co/Wan-AI/"><img src="https://img.shields.io/badge/Wan-eaf2ff?style=flat" alt="Wan" width="42" height="24"></a>
+<a href="scripts/ltx2/README.md"><img src="https://img.shields.io/badge/LTX-eaf2ff?style=flat" alt="LTX" width="38" height="24"></a>
+<a href="scripts/minimax_h3/README.md"><img src="https://img.shields.io/badge/MiniMax--H3-eaf2ff?style=flat" alt="MiniMax-H3" width="90" height="24"></a>
+<a href="scripts/hunyuan_video_15/README.md"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" width="107" height="24"></a>
+<a href="scripts/lingbot_video"><img src="https://img.shields.io/badge/LingBot--Video-eaf2ff?style=flat" alt="LingBot-Video" width="105" height="24"></a>
+<a href="scripts/seko_talk"><img src="https://img.shields.io/badge/SekoTalk-eaf2ff?style=flat" alt="SekoTalk" width="74" height="24"></a>
+<a href="scripts/infinitetalk"><img src="https://img.shields.io/badge/InfiniteTalk-eaf2ff?style=flat" alt="InfiniteTalk" width="88" height="24"></a>
+<a href="scripts/self_forcing/README.md"><img src="https://img.shields.io/badge/Self--Forcing-eaf2ff?style=flat" alt="Self-Forcing" width="93" height="24"></a>
 </summary>
 
 | Models / Variants and Weights | Guides / Scripts |
@@ -223,16 +223,16 @@ LightX2V supports image, video, and world models and provides quantized weights,
 </details>
 
 <details>
-<summary><strong>🎨 Image Generation &amp; Editing</strong><br>
-<a href="scripts/qwen_image/README.md"><img src="https://img.shields.io/badge/Qwen--Image-eaf2ff?style=flat" alt="Qwen-Image" height="22"></a>
-<a href="scripts/flux2"><img src="https://img.shields.io/badge/FLUX.2-eaf2ff?style=flat" alt="FLUX.2" height="22"></a>
-<a href="scripts/hunyuan_image3"><img src="https://img.shields.io/badge/HunyuanImage-eaf2ff?style=flat" alt="HunyuanImage" height="22"></a>
-<a href="scripts/z_image/README.md"><img src="https://img.shields.io/badge/Z--Image-eaf2ff?style=flat" alt="Z-Image" height="22"></a>
-<a href="scripts/longcat/README.md"><img src="https://img.shields.io/badge/LongCat--Image-eaf2ff?style=flat" alt="LongCat-Image" height="22"></a>
-<a href="scripts/bagel/README.md"><img src="https://img.shields.io/badge/BAGEL-eaf2ff?style=flat" alt="BAGEL" height="22"></a>
-<a href="scripts/hidream_o1_image"><img src="https://img.shields.io/badge/HiDream-eaf2ff?style=flat" alt="HiDream" height="22"></a>
-<a href="scripts/ernie_image"><img src="https://img.shields.io/badge/ERNIE--Image-eaf2ff?style=flat" alt="ERNIE-Image" height="22"></a>
-<a href="scripts/neopp/README.md"><img src="https://img.shields.io/badge/SenseNova--U1-eaf2ff?style=flat" alt="SenseNova-U1" height="22"></a>
+<summary><strong>🎨 Image Generation &amp; Editing</strong><br><br>
+<a href="scripts/qwen_image/README.md"><img src="https://img.shields.io/badge/Qwen--Image-eaf2ff?style=flat" alt="Qwen-Image" width="98" height="24"></a>
+<a href="scripts/flux2"><img src="https://img.shields.io/badge/FLUX.2-eaf2ff?style=flat" alt="FLUX.2" width="59" height="24"></a>
+<a href="scripts/hunyuan_image3"><img src="https://img.shields.io/badge/HunyuanImage-eaf2ff?style=flat" alt="HunyuanImage" width="114" height="24"></a>
+<a href="scripts/z_image/README.md"><img src="https://img.shields.io/badge/Z--Image-eaf2ff?style=flat" alt="Z-Image" width="69" height="24"></a>
+<a href="scripts/longcat/README.md"><img src="https://img.shields.io/badge/LongCat--Image-eaf2ff?style=flat" alt="LongCat-Image" width="114" height="24"></a>
+<a href="scripts/bagel/README.md"><img src="https://img.shields.io/badge/BAGEL-eaf2ff?style=flat" alt="BAGEL" width="57" height="24"></a>
+<a href="scripts/hidream_o1_image"><img src="https://img.shields.io/badge/HiDream-eaf2ff?style=flat" alt="HiDream" width="71" height="24"></a>
+<a href="scripts/ernie_image"><img src="https://img.shields.io/badge/ERNIE--Image-eaf2ff?style=flat" alt="ERNIE-Image" width="102" height="24"></a>
+<a href="scripts/neopp/README.md"><img src="https://img.shields.io/badge/SenseNova--U1-eaf2ff?style=flat" alt="SenseNova-U1" width="110" height="24"></a>
 </summary>
 
 | Models / Variants and Weights | Guides / Scripts |
@@ -253,9 +253,9 @@ LightX2V supports image, video, and world models and provides quantized weights,
 </details>
 
 <details>
-<summary><strong>🔍 Restoration &amp; Super-Resolution</strong><br>
-<a href="scripts/seedvr2/README.md"><img src="https://img.shields.io/badge/SeedVR2-eaf2ff?style=flat" alt="SeedVR2" height="22"></a>
-<a href="scripts/swiftvr/README.md"><img src="https://img.shields.io/badge/SwiftVR-eaf2ff?style=flat" alt="SwiftVR" height="22"></a>
+<summary><strong>🔍 Restoration &amp; Super-Resolution</strong><br><br>
+<a href="scripts/seedvr2/README.md"><img src="https://img.shields.io/badge/SeedVR2-eaf2ff?style=flat" alt="SeedVR2" width="71" height="24"></a>
+<a href="scripts/swiftvr/README.md"><img src="https://img.shields.io/badge/SwiftVR-eaf2ff?style=flat" alt="SwiftVR" width="64" height="24"></a>
 </summary>
 
 | Models / Variants and Weights | Guides / Scripts |
@@ -266,19 +266,19 @@ LightX2V supports image, video, and world models and provides quantized weights,
 </details>
 
 <details>
-<summary><strong>🌍 World Models, Robotics &amp; 3D</strong><br>
-<a href="scripts/cosmos3"><img src="https://img.shields.io/badge/Cosmos3-eaf2ff?style=flat" alt="Cosmos3" height="22"></a>
-<a href="scripts/lingbot"><img src="https://img.shields.io/badge/LingBot--World-eaf2ff?style=flat" alt="LingBot-World" height="22"></a>
-<a href="scripts/matrix_game3"><img src="https://img.shields.io/badge/Matrix--Game-eaf2ff?style=flat" alt="Matrix-Game" height="22"></a>
-<a href="scripts/worldplay/README.md"><img src="https://img.shields.io/badge/WorldPlay-eaf2ff?style=flat" alt="WorldPlay" height="22"></a>
-<a href="scripts/edenlive/README.md"><img src="https://img.shields.io/badge/EdenLive-eaf2ff?style=flat" alt="EdenLive" height="22"></a>
-<a href="scripts/worldmirror/README.md"><img src="https://img.shields.io/badge/WorldMirror-eaf2ff?style=flat" alt="WorldMirror" height="22"></a><br>
-<a href="scripts/dreamzero"><img src="https://img.shields.io/badge/DreamZero-eaf2ff?style=flat" alt="DreamZero" height="22"></a>
-<a href="scripts/lingbot_va"><img src="https://img.shields.io/badge/LingBot--VA-eaf2ff?style=flat" alt="LingBot-VA" height="22"></a>
-<a href="scripts/motus"><img src="https://img.shields.io/badge/Motus-eaf2ff?style=flat" alt="Motus" height="22"></a>
-<a href="scripts/fastwam"><img src="https://img.shields.io/badge/Fast--WAM-eaf2ff?style=flat" alt="Fast-WAM" height="22"></a>
-<a href="scripts/realtimewam/README.md"><img src="https://img.shields.io/badge/RealtimeWAM-eaf2ff?style=flat" alt="RealtimeWAM" height="22"></a>
-<a href="scripts/hunyuan3d"><img src="https://img.shields.io/badge/Hunyuan3D-eaf2ff?style=flat" alt="Hunyuan3D" height="22"></a>
+<summary><strong>🌍 World Models, Robotics &amp; 3D</strong><br><br>
+<a href="scripts/cosmos3"><img src="https://img.shields.io/badge/Cosmos3-eaf2ff?style=flat" alt="Cosmos3" width="74" height="24"></a>
+<a href="scripts/lingbot"><img src="https://img.shields.io/badge/LingBot--World-eaf2ff?style=flat" alt="LingBot-World" width="107" height="24"></a>
+<a href="scripts/matrix_game3"><img src="https://img.shields.io/badge/Matrix--Game-eaf2ff?style=flat" alt="Matrix-Game" width="98" height="24"></a>
+<a href="scripts/worldplay/README.md"><img src="https://img.shields.io/badge/WorldPlay-eaf2ff?style=flat" alt="WorldPlay" width="78" height="24"></a>
+<a href="scripts/edenlive/README.md"><img src="https://img.shields.io/badge/EdenLive-eaf2ff?style=flat" alt="EdenLive" width="71" height="24"></a>
+<a href="scripts/worldmirror/README.md"><img src="https://img.shields.io/badge/WorldMirror-eaf2ff?style=flat" alt="WorldMirror" width="90" height="24"></a><br>
+<a href="scripts/dreamzero"><img src="https://img.shields.io/badge/DreamZero-eaf2ff?style=flat" alt="DreamZero" width="88" height="24"></a>
+<a href="scripts/lingbot_va"><img src="https://img.shields.io/badge/LingBot--VA-eaf2ff?style=flat" alt="LingBot-VA" width="86" height="24"></a>
+<a href="scripts/motus"><img src="https://img.shields.io/badge/Motus-eaf2ff?style=flat" alt="Motus" width="52" height="24"></a>
+<a href="scripts/fastwam"><img src="https://img.shields.io/badge/Fast--WAM-eaf2ff?style=flat" alt="Fast-WAM" width="78" height="24"></a>
+<a href="scripts/realtimewam/README.md"><img src="https://img.shields.io/badge/RealtimeWAM-eaf2ff?style=flat" alt="RealtimeWAM" width="105" height="24"></a>
+<a href="scripts/hunyuan3d"><img src="https://img.shields.io/badge/Hunyuan3D-eaf2ff?style=flat" alt="Hunyuan3D" width="90" height="24"></a>
 </summary>
 
 | Models / Variants and Weights | Guides / Scripts |
@@ -299,18 +299,18 @@ LightX2V supports image, video, and world models and provides quantized weights,
 </details>
 
 <details>
-<summary><strong>⚡ LightX2V Acceleration Resources</strong><br>
-<strong>Distillation &amp; LoRAs</strong>: <a href="https://huggingface.co/lightx2v/Minimax-h3-Turbo"><img src="https://img.shields.io/badge/MiniMax--H3%20Turbo-eaf2ff?style=flat" alt="MiniMax-H3 Turbo" height="22"></a>
-<a href="https://huggingface.co/lightx2v/LightLingBot-Video"><img src="https://img.shields.io/badge/LightLingBot--Video-eaf2ff?style=flat" alt="LightLingBot-Video" height="22"></a>
-<a href="https://huggingface.co/lightx2v/Wan2.2-Distill-Models"><img src="https://img.shields.io/badge/Wan-eaf2ff?style=flat" alt="Wan" height="22"></a>
-<a href="https://huggingface.co/lightx2v/Hy1.5-Distill-Models"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" height="22"></a>
-<a href="https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning"><img src="https://img.shields.io/badge/Qwen--Image%20Lightning-eaf2ff?style=flat" alt="Qwen-Image Lightning" height="22"></a><br>
-<strong>Quantized weights</strong>: <a href="https://huggingface.co/lightx2v/Wan-NVFP4"><img src="https://img.shields.io/badge/Wan%20NVFP4-eaf2ff?style=flat" alt="Wan NVFP4" height="22"></a>
-<a href="https://huggingface.co/lightx2v/LightWan2.2-A14B"><img src="https://img.shields.io/badge/LightWan2.2-eaf2ff?style=flat" alt="LightWan2.2" height="22"></a>
-<a href="https://huggingface.co/lightx2v/Hy1.5-Quantized-Models"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" height="22"></a>
-<a href="https://huggingface.co/lightx2v/Z-Image-Turbo-Quantized"><img src="https://img.shields.io/badge/Z--Image-eaf2ff?style=flat" alt="Z-Image" height="22"></a>
-<a href="https://huggingface.co/lightx2v/Self-Forcing-FP8"><img src="https://img.shields.io/badge/Self--Forcing-eaf2ff?style=flat" alt="Self-Forcing" height="22"></a><br>
-<strong>Lightweight autoencoders</strong>: <a href="https://huggingface.co/lightx2v/Autoencoders"><img src="https://img.shields.io/badge/LightVAE%20%2F%20LightTAE-eaf2ff?style=flat" alt="LightVAE / LightTAE" height="22"></a>
+<summary><strong>⚡ LightX2V Acceleration Resources</strong><br><br>
+Distillation &amp; LoRAs: <a href="https://huggingface.co/lightx2v/Minimax-h3-Turbo"><img src="https://img.shields.io/badge/MiniMax--H3%20Turbo-eaf2ff?style=flat" alt="MiniMax-H3 Turbo" width="134" height="24"></a>
+<a href="https://huggingface.co/lightx2v/LightLingBot-Video"><img src="https://img.shields.io/badge/LightLingBot--Video-eaf2ff?style=flat" alt="LightLingBot-Video" width="138" height="24"></a>
+<a href="https://huggingface.co/lightx2v/Wan2.2-Distill-Models"><img src="https://img.shields.io/badge/Wan-eaf2ff?style=flat" alt="Wan" width="42" height="24"></a>
+<a href="https://huggingface.co/lightx2v/Hy1.5-Distill-Models"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" width="107" height="24"></a>
+<a href="https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning"><img src="https://img.shields.io/badge/Qwen--Image%20Lightning-eaf2ff?style=flat" alt="Qwen-Image Lightning" width="165" height="24"></a><br>
+Quantized weights: <a href="https://huggingface.co/lightx2v/Wan-NVFP4"><img src="https://img.shields.io/badge/Wan%20NVFP4-eaf2ff?style=flat" alt="Wan NVFP4" width="90" height="24"></a>
+<a href="https://huggingface.co/lightx2v/LightWan2.2-A14B"><img src="https://img.shields.io/badge/LightWan2.2-eaf2ff?style=flat" alt="LightWan2.2" width="95" height="24"></a>
+<a href="https://huggingface.co/lightx2v/Hy1.5-Quantized-Models"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" width="107" height="24"></a>
+<a href="https://huggingface.co/lightx2v/Z-Image-Turbo-Quantized"><img src="https://img.shields.io/badge/Z--Image-eaf2ff?style=flat" alt="Z-Image" width="69" height="24"></a>
+<a href="https://huggingface.co/lightx2v/Self-Forcing-FP8"><img src="https://img.shields.io/badge/Self--Forcing-eaf2ff?style=flat" alt="Self-Forcing" width="93" height="24"></a><br>
+Lightweight autoencoders: <a href="https://huggingface.co/lightx2v/Autoencoders"><img src="https://img.shields.io/badge/LightVAE%20%2F%20LightTAE-eaf2ff?style=flat" alt="LightVAE / LightTAE" width="146" height="24"></a>
 </summary>
 
 | Models / Variants and Weights | Guides / Scripts |
