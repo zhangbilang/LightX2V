@@ -194,8 +194,15 @@ python scripts/minimax_h3/server/post_t2av.py
 LightX2V 支持多种图像、视频与世界模型，并提供量化权重、蒸馏模型和轻量自编码器。
 
 <details>
-<summary><strong>🎬 视频与音视频生成</strong><br><br>
-<a href="https://huggingface.co/Wan-AI/">Wan</a> · <a href="scripts/ltx2/README_zh.md">LTX</a> · <a href="scripts/minimax_h3/README_zh.md">MiniMax-H3</a> · <a href="scripts/hunyuan_video_15/README.md">HunyuanVideo</a> · <a href="scripts/lingbot_video">LingBot-Video</a> · <a href="scripts/seko_talk">SekoTalk</a> · <a href="scripts/infinitetalk">InfiniteTalk</a> · <a href="scripts/self_forcing/README_zh.md">Self-Forcing</a>
+<summary><strong>🎬 视频与音视频生成</strong><br>
+<a href="https://huggingface.co/Wan-AI/"><img src="https://img.shields.io/badge/Wan-eaf2ff?style=flat" alt="Wan" height="22"></a>
+<a href="scripts/ltx2/README_zh.md"><img src="https://img.shields.io/badge/LTX-eaf2ff?style=flat" alt="LTX" height="22"></a>
+<a href="scripts/minimax_h3/README_zh.md"><img src="https://img.shields.io/badge/MiniMax--H3-eaf2ff?style=flat" alt="MiniMax-H3" height="22"></a>
+<a href="scripts/hunyuan_video_15/README.md"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" height="22"></a>
+<a href="scripts/lingbot_video"><img src="https://img.shields.io/badge/LingBot--Video-eaf2ff?style=flat" alt="LingBot-Video" height="22"></a>
+<a href="scripts/seko_talk"><img src="https://img.shields.io/badge/SekoTalk-eaf2ff?style=flat" alt="SekoTalk" height="22"></a>
+<a href="scripts/infinitetalk"><img src="https://img.shields.io/badge/InfiniteTalk-eaf2ff?style=flat" alt="InfiniteTalk" height="22"></a>
+<a href="scripts/self_forcing/README_zh.md"><img src="https://img.shields.io/badge/Self--Forcing-eaf2ff?style=flat" alt="Self-Forcing" height="22"></a>
 </summary>
 
 | 模型 / 变体与权重 | 使用指南 / 脚本 |
@@ -216,8 +223,16 @@ LightX2V 支持多种图像、视频与世界模型，并提供量化权重、�
 </details>
 
 <details>
-<summary><strong>🎨 图像生成与编辑</strong><br><br>
-<a href="scripts/qwen_image/README_zh.md">Qwen-Image</a> · <a href="scripts/flux2">FLUX.2</a> · <a href="scripts/hunyuan_image3">HunyuanImage</a> · <a href="scripts/z_image/README_zh.md">Z-Image</a> · <a href="scripts/longcat/README_zh.md">LongCat-Image</a> · <a href="scripts/bagel/README.md">BAGEL</a> · <a href="scripts/hidream_o1_image">HiDream</a> · <a href="scripts/ernie_image">ERNIE-Image</a> · <a href="scripts/neopp/README.md">SenseNova-U1</a>
+<summary><strong>🎨 图像生成与编辑</strong><br>
+<a href="scripts/qwen_image/README_zh.md"><img src="https://img.shields.io/badge/Qwen--Image-eaf2ff?style=flat" alt="Qwen-Image" height="22"></a>
+<a href="scripts/flux2"><img src="https://img.shields.io/badge/FLUX.2-eaf2ff?style=flat" alt="FLUX.2" height="22"></a>
+<a href="scripts/hunyuan_image3"><img src="https://img.shields.io/badge/HunyuanImage-eaf2ff?style=flat" alt="HunyuanImage" height="22"></a>
+<a href="scripts/z_image/README_zh.md"><img src="https://img.shields.io/badge/Z--Image-eaf2ff?style=flat" alt="Z-Image" height="22"></a>
+<a href="scripts/longcat/README_zh.md"><img src="https://img.shields.io/badge/LongCat--Image-eaf2ff?style=flat" alt="LongCat-Image" height="22"></a>
+<a href="scripts/bagel/README.md"><img src="https://img.shields.io/badge/BAGEL-eaf2ff?style=flat" alt="BAGEL" height="22"></a>
+<a href="scripts/hidream_o1_image"><img src="https://img.shields.io/badge/HiDream-eaf2ff?style=flat" alt="HiDream" height="22"></a>
+<a href="scripts/ernie_image"><img src="https://img.shields.io/badge/ERNIE--Image-eaf2ff?style=flat" alt="ERNIE-Image" height="22"></a>
+<a href="scripts/neopp/README.md"><img src="https://img.shields.io/badge/SenseNova--U1-eaf2ff?style=flat" alt="SenseNova-U1" height="22"></a>
 </summary>
 
 | 模型 / 变体与权重 | 使用指南 / 脚本 |
@@ -238,8 +253,9 @@ LightX2V 支持多种图像、视频与世界模型，并提供量化权重、�
 </details>
 
 <details>
-<summary><strong>🔍 修复与超分辨率</strong><br><br>
-<a href="scripts/seedvr2/README_zh.md">SeedVR2</a> · <a href="scripts/swiftvr/README_zh.md">SwiftVR</a>
+<summary><strong>🔍 修复与超分辨率</strong><br>
+<a href="scripts/seedvr2/README_zh.md"><img src="https://img.shields.io/badge/SeedVR2-eaf2ff?style=flat" alt="SeedVR2" height="22"></a>
+<a href="scripts/swiftvr/README_zh.md"><img src="https://img.shields.io/badge/SwiftVR-eaf2ff?style=flat" alt="SwiftVR" height="22"></a>
 </summary>
 
 | 模型 / 变体与权重 | 使用指南 / 脚本 |
@@ -250,8 +266,19 @@ LightX2V 支持多种图像、视频与世界模型，并提供量化权重、�
 </details>
 
 <details>
-<summary><strong>🌍 世界模型、机器人与三维</strong><br><br>
-<a href="scripts/cosmos3">Cosmos3</a> · <a href="scripts/lingbot">LingBot-World</a> · <a href="scripts/matrix_game3">Matrix-Game</a> · <a href="scripts/worldplay/README.md">WorldPlay</a> · <a href="scripts/edenlive/README_zh.md">EdenLive</a> · <a href="scripts/worldmirror/README_zh.md">WorldMirror</a> · <a href="scripts/dreamzero">DreamZero</a> · <a href="scripts/lingbot_va">LingBot-VA</a> · <a href="scripts/motus">Motus</a> · <a href="scripts/fastwam">Fast-WAM</a> · <a href="scripts/realtimewam/README.md">RealtimeWAM</a> · <a href="scripts/hunyuan3d">Hunyuan3D</a>
+<summary><strong>🌍 世界模型、机器人与三维</strong><br>
+<a href="scripts/cosmos3"><img src="https://img.shields.io/badge/Cosmos3-eaf2ff?style=flat" alt="Cosmos3" height="22"></a>
+<a href="scripts/lingbot"><img src="https://img.shields.io/badge/LingBot--World-eaf2ff?style=flat" alt="LingBot-World" height="22"></a>
+<a href="scripts/matrix_game3"><img src="https://img.shields.io/badge/Matrix--Game-eaf2ff?style=flat" alt="Matrix-Game" height="22"></a>
+<a href="scripts/worldplay/README.md"><img src="https://img.shields.io/badge/WorldPlay-eaf2ff?style=flat" alt="WorldPlay" height="22"></a>
+<a href="scripts/edenlive/README_zh.md"><img src="https://img.shields.io/badge/EdenLive-eaf2ff?style=flat" alt="EdenLive" height="22"></a>
+<a href="scripts/worldmirror/README_zh.md"><img src="https://img.shields.io/badge/WorldMirror-eaf2ff?style=flat" alt="WorldMirror" height="22"></a><br>
+<a href="scripts/dreamzero"><img src="https://img.shields.io/badge/DreamZero-eaf2ff?style=flat" alt="DreamZero" height="22"></a>
+<a href="scripts/lingbot_va"><img src="https://img.shields.io/badge/LingBot--VA-eaf2ff?style=flat" alt="LingBot-VA" height="22"></a>
+<a href="scripts/motus"><img src="https://img.shields.io/badge/Motus-eaf2ff?style=flat" alt="Motus" height="22"></a>
+<a href="scripts/fastwam"><img src="https://img.shields.io/badge/Fast--WAM-eaf2ff?style=flat" alt="Fast-WAM" height="22"></a>
+<a href="scripts/realtimewam/README.md"><img src="https://img.shields.io/badge/RealtimeWAM-eaf2ff?style=flat" alt="RealtimeWAM" height="22"></a>
+<a href="scripts/hunyuan3d"><img src="https://img.shields.io/badge/Hunyuan3D-eaf2ff?style=flat" alt="Hunyuan3D" height="22"></a>
 </summary>
 
 | 模型 / 变体与权重 | 使用指南 / 脚本 |
@@ -272,10 +299,18 @@ LightX2V 支持多种图像、视频与世界模型，并提供量化权重、�
 </details>
 
 <details>
-<summary><strong>⚡ LightX2V 加速资源</strong><br><br>
-<strong>蒸馏与 LoRA</strong>：<a href="https://huggingface.co/lightx2v/Minimax-h3-Turbo">MiniMax-H3 Turbo</a> · <a href="https://huggingface.co/lightx2v/LightLingBot-Video">LightLingBot-Video</a> · <a href="https://huggingface.co/lightx2v/Wan2.2-Distill-Models">Wan</a> · <a href="https://huggingface.co/lightx2v/Hy1.5-Distill-Models">HunyuanVideo</a> · <a href="https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning">Qwen-Image Lightning</a><br>
-<strong>量化权重</strong>：<a href="https://huggingface.co/lightx2v/Wan-NVFP4">Wan NVFP4</a> · <a href="https://huggingface.co/lightx2v/LightWan2.2-A14B">LightWan2.2</a> · <a href="https://huggingface.co/lightx2v/Hy1.5-Quantized-Models">HunyuanVideo</a> · <a href="https://huggingface.co/lightx2v/Z-Image-Turbo-Quantized">Z-Image</a> · <a href="https://huggingface.co/lightx2v/Self-Forcing-FP8">Self-Forcing</a><br>
-<strong>轻量自编码器</strong>：<a href="https://huggingface.co/lightx2v/Autoencoders">LightVAE / LightTAE</a>
+<summary><strong>⚡ LightX2V 加速资源</strong><br>
+<strong>蒸馏与 LoRA</strong>：<a href="https://huggingface.co/lightx2v/Minimax-h3-Turbo"><img src="https://img.shields.io/badge/MiniMax--H3%20Turbo-eaf2ff?style=flat" alt="MiniMax-H3 Turbo" height="22"></a>
+<a href="https://huggingface.co/lightx2v/LightLingBot-Video"><img src="https://img.shields.io/badge/LightLingBot--Video-eaf2ff?style=flat" alt="LightLingBot-Video" height="22"></a>
+<a href="https://huggingface.co/lightx2v/Wan2.2-Distill-Models"><img src="https://img.shields.io/badge/Wan-eaf2ff?style=flat" alt="Wan" height="22"></a>
+<a href="https://huggingface.co/lightx2v/Hy1.5-Distill-Models"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" height="22"></a>
+<a href="https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning"><img src="https://img.shields.io/badge/Qwen--Image%20Lightning-eaf2ff?style=flat" alt="Qwen-Image Lightning" height="22"></a><br>
+<strong>量化权重</strong>：<a href="https://huggingface.co/lightx2v/Wan-NVFP4"><img src="https://img.shields.io/badge/Wan%20NVFP4-eaf2ff?style=flat" alt="Wan NVFP4" height="22"></a>
+<a href="https://huggingface.co/lightx2v/LightWan2.2-A14B"><img src="https://img.shields.io/badge/LightWan2.2-eaf2ff?style=flat" alt="LightWan2.2" height="22"></a>
+<a href="https://huggingface.co/lightx2v/Hy1.5-Quantized-Models"><img src="https://img.shields.io/badge/HunyuanVideo-eaf2ff?style=flat" alt="HunyuanVideo" height="22"></a>
+<a href="https://huggingface.co/lightx2v/Z-Image-Turbo-Quantized"><img src="https://img.shields.io/badge/Z--Image-eaf2ff?style=flat" alt="Z-Image" height="22"></a>
+<a href="https://huggingface.co/lightx2v/Self-Forcing-FP8"><img src="https://img.shields.io/badge/Self--Forcing-eaf2ff?style=flat" alt="Self-Forcing" height="22"></a><br>
+<strong>轻量自编码器</strong>：<a href="https://huggingface.co/lightx2v/Autoencoders"><img src="https://img.shields.io/badge/LightVAE%20%2F%20LightTAE-eaf2ff?style=flat" alt="LightVAE / LightTAE" height="22"></a>
 </summary>
 
 | 模型 / 变体与权重 | 使用指南 / 脚本 |
